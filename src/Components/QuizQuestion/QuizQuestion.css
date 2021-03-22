@@ -1,0 +1,27 @@
+@import "../QuizBoard/QuizBoard.css";
+
+.question {
+  text-align: left;
+}
+
+.question > input[type="radio"] {
+  border: 0px;
+  width: 10%;
+  height: 2em;
+  vertical-align: middle;
+}
+
+.question > label {
+  font-size: 1.5rem;
+}
+
+.question > .btn {
+  display: block;
+  margin: 12px auto;
+  width: 20%;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 15px;
+  outline: none;
+  background: var(--primary-background);
+}
