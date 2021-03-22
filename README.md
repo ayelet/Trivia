@@ -1,3 +1,18 @@
+# Dog Breed Trivia
+
+Are you a real dog lover? Test yourself and find out how many dog breeds do you really know
+
+
+https://ayelet-dogs-trivia.netlify.app/
+
+Tools and libraries:
+- [x]  React
+- [x]  JS / CSS / HTML
+- [x]  API Requests (axios)
+- [x]  Local storage
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
